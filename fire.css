@@ -1,0 +1,23 @@
+#fire{
+    background-image: url('../images/');
+    height: 60vh;
+    width: 50%;
+    margin: auto;
+    margin-top: 140px;
+}
+#fire2{
+    color: transparent;
+    width: 120%;
+    height: 50vh;
+    font-size: 50pt;
+    background-image: url(../video/fire-flames.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -90px;
+    margin-left: -40px;
+    text-align: center;
+    background-position: center;
+    padding-top: 60px;
+    font-style: inherit;
+    -webkit-background-clip: text;
+} 
