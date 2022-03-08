@@ -1,0 +1,13 @@
+#fire2{
+    color: transparent;
+    width: 120%;
+    height: 50vh;
+    font-size: 50pt;
+    background-image: url(/fire-flames.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    margin-left: -80px;
+    text-align: center;
+    -webkit-background-clip: text;
+} 
